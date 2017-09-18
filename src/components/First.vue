@@ -40,7 +40,7 @@
         <img src="./../assets/images/9.png" style="width: 50%">
       </p>
       <!-- submit -->
-      <div @click="submit" class="text-center">
+      <div @click="submit" class="text-center" style="margin-bottom: 2rem">
         <img src="./../assets/images/10.png" style="width: 70%">
       </div>
     </div>

@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+     <router-view></router-view> 
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
   name: 'app',
   mounted () {
-    document.body.style.height = window.outerHeight + 'px'
+    // document.body.style.height = window.outerHeight + 'px'
   }
 }
 </script>
